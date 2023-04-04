@@ -1,0 +1,15 @@
+li{
+    list-style-type: none;
+}
+
+img{
+    max-width: 500px;
+}
+
+.band-thumb img{
+    max-width: 150px;
+}
+
+Link{
+    text-decoration:none;
+}
